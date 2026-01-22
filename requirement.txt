@@ -1,4 +1,0 @@
-pandas
-dash
-"dash[cloud]"
-"dash[testing]"
